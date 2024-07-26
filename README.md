@@ -6,7 +6,7 @@ It looks like your shortcode snippet is almost set up correctly, but there's a m
 
 2\. **Escaped Output**: Added `esc_html()` to ensure that any special characters in the user's name or blog name are safely outputted.
 
-To apply this code:
+### To Apply This Code:
 
 1\. Go to your WordPress dashboard.
 
